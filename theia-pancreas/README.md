@@ -54,7 +54,7 @@ s3://theia-pancreas/
     annotations/
       json/
         cohort=utsw/<slide_id>.json
-        cohort=cptac-pda/<slide_id>.xml
+        cohort=cptac-pda/<slide_id>.json
     benchmark/
       dhcp/
         v1.0.0/
